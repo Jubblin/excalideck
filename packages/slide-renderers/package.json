@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@excalideck/deck": "workspace:*",
-    "@excalidraw/excalidraw": "^0.10.0",
+    "@excalidraw/excalidraw": "^0.15.3",
     "lru-cache": "^6.0.0",
     "nanoid": "^3.1.30"
   },
