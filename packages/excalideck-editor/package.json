@@ -21,7 +21,7 @@
     "@dnd-kit/utilities": "^3.0.0",
     "@excalideck/deck": "workspace:*",
     "@excalideck/slide-renderers": "workspace:*",
-    "@excalidraw/excalidraw": "^0.10.0",
+    "@excalidraw/excalidraw": "^0.17.3",
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-regular-svg-icons": "^5.15.4",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
